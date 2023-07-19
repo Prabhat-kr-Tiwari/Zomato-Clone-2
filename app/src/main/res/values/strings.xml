@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Zomato</string>
+    <string name="_100_green_deliveries">100% Green Deliveries</string>
+    <string name="in_india">in India</string>
+    <string name="india_s_food_delivery_n_and_dinning_app">India\'s #1 Food Delivery\n and Dinning App</string>
+    <string name="log_in_or_sign_up">Log in or Sign up</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="t_and_c">By continuing, you agree to our Terms of Service,Privacy Policy,Content Policy</string>
+    <string name="sent_verif_code">we have sent a verification code to</string>
+    <string name="otp_verification">OTP Verification</string>
+    <string name="dummy_number">+91-1234567890</string>
+    <string name="verify">Verify</string>
+    <string name="resend_otp_in">Resend OTP in:</string>
+    <string name="_0_00">0:00</string>
+    <string name="re_send">Re-Send</string>
+    <string name="title_goes_here">Title Goes Here</string>
+    <string name="delivery">Delivery</string>
+    <string name="money">Wallet</string>
+    <string name="dining">Dining</string>
+    <string name="kj_somaiya_">KJ Somaiya College of Eng...</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main">Zomato</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="vidyanagar_">Vidyanagar, Vidya Vihar East,Ghatkopar E...\n</string>
+    <string name="recommended_txt">Recommended for you</string>
+    <string name="explore">Explore</string>
+    <string name="whats">Whats on your mind</string>
+    <string name="food_type">Food Type</string>
+    <string name="title">Title</string>
+    <string name="_0_00_min">0:00 min</string>
+    <string name="_50_off_up_to_100">50% off up to 100</string>
+    <string name="_250">250</string>
+</resources>
